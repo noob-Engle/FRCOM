@@ -33,5 +33,5 @@ $clsidProperties | Get-Member -MemberType Method
 
 
 ## TodoList
-- [*] FindCLSID
-- [*] Call COM Success 
+- [x] FindCLSID
+- [x] Call COM Success 
