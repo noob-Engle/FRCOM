@@ -1,7 +1,7 @@
 # FRCOM
 Rust Windows COM Code Sinppet
 
-> build
+> build project
 ```bash
 cargo build
 ```
