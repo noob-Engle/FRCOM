@@ -1,6 +1,10 @@
 # FRCOM
 Rust Windows COM Code Sinppet
 
+> build
+```bash
+cargo build
+```
 
 - FindCLSID.exe  Get CLSID
 - FindCom.exe    CLSID Call Com 
