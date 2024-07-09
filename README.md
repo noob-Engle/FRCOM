@@ -5,6 +5,7 @@ Rust Windows COM Code Sinppet
 ```bash
 cargo build
 ```
+## INFO 
 
 - FindCLSID.exe  Get CLSID
 - FindCom.exe    CLSID Call Com 
