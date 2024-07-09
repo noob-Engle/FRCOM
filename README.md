@@ -32,6 +32,7 @@ $clsidProperties | Get-Member -MemberType Method
 
 
 
-## TodoList
-- [x] FindCLSID
-- [x] Call COM Success 
+## Todo Work
+- [x] Find clsid
+- [x] Call COM Success
+- [ ] Let FindCLSID and Call COM combo CLITools～
